@@ -13,3 +13,4 @@ Notes and usage details for ai-ppt-generator.
 - fix a small wording issue
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
